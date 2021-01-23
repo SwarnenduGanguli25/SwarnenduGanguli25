@@ -21,7 +21,7 @@ I'm from Damanjodi, Odisha and currently pursuing my B.Tech from National Instit
 *****
 ### You can also connect to me via:
 
-<a href="https://twitter.com/swarnendu_1"><img align="center" height="30" width="40" src="https://www.flaticon.com/premium-icon/icons/svg/3256/3256013.svg"></a> 
+<a href="https://twitter.com/swarnendu_1"><img align="center" height="30" width="40" src="https://www.flaticon.com/svg/vstatic/svg/1409/1409937.svg?token=exp=1611403569~hmac=a7314697c5bccf397ccc40b66c3e24d9"></a> 
 <a href="https://www.facebook.com/ganguli.swarnendu.25"><img align="center" height="30" width="40" src="https://www.flaticon.com/svg/vstatic/svg/124/124010.svg?token=exp=1611401306~hmac=717061ff08a675b7de0118a80d692962"></a> 
 <a href="https://www.instagram.com/_ganguli_swarnendu.25/"><img align="center" height="30" width="40" src="https://www.flaticon.com/svg/vstatic/svg/1384/1384063.svg?token=exp=1611401441~hmac=cec5e370c19090237abb18ccd5fffc29"></a> 
 <a href="https://www.linkedin.com/in/swarnendu-ganguli-b679841b4/"><img align="center" height="30" width="40" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1611403407~hmac=d472d8862de18d61a925b6698b70b7dd"></a>
