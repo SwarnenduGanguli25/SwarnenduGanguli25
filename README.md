@@ -61,9 +61,9 @@ I'm from Damanjodi, Odisha and currently pursuing my B.Tech from National Instit
 ### 📈 GitHub Statistics:
 
 <a href="https://github.com/SwarnenduGanguli25/SwarnenduGanguli25">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwarnenduGanguli25&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwarnenduGanguli25&theme=cobalt" />
 </a>
 <a href="https://github.com/SwarnenduGanguli25/SwarnenduGanguli25">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SwarnenduGanguli25&show_icons=true&theme=radical" alt="Swarnendu's's GitHub Stats" />
 </a>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SwarnenduGanguli25&theme=synthwave" alt="SwarnenduGanguli25" /></p>
+<a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SwarnenduGanguli25&theme=synthwave" alt="SwarnenduGanguli25" /></a>
