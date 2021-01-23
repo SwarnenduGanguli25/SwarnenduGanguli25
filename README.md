@@ -1,5 +1,5 @@
-# ->Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><-
-### My name is Swarnendu Ganguli.
+# <div align="center">Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></div>
+## <div align="center">My name is Swarnendu Ganguli.</div>
 
 <!--
 **SwarnenduGanguli25/SwarnenduGanguli25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
