@@ -4,10 +4,9 @@
 I'm from Damanjodi, Odisha and currently pursuing my B.Tech from National Institute of Technology, Agartala in the field of Computer Science & Engineering. I am presently in the 3rd year and I am actively looking forward to working with IT companies where I would be able to showcase my skills.
 
 *****
-<img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img align="right" height="300" width="450" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-### 👨🏻‍🎓About Myself:
-<br>
+### 👨🏻‍🎓 About Myself:
 
 - 🔭 I’m currently working on **Machine Learning & Data Science😃**.
 <!-- -->
@@ -22,7 +21,7 @@ I'm from Damanjodi, Odisha and currently pursuing my B.Tech from National Instit
 - ⚡ Fun fact: **I love watching anime and reading manga😍**.
 
 *****
-### You can also connect to me via:
+### 🔗 You can also connect to me via:
 
 <a href="https://twitter.com/swarnendu_1"><img align="center" height="30" width="40" src="https://www.flaticon.com/svg/vstatic/svg/1409/1409937.svg?token=exp=1611403569~hmac=a7314697c5bccf397ccc40b66c3e24d9"></a> 
 <a href="https://www.facebook.com/ganguli.swarnendu.25"><img align="center" height="30" width="40" src="https://www.flaticon.com/svg/vstatic/svg/124/124010.svg?token=exp=1611401306~hmac=717061ff08a675b7de0118a80d692962"></a> 
@@ -31,4 +30,4 @@ I'm from Damanjodi, Odisha and currently pursuing my B.Tech from National Instit
 <br>
 <br>
 
-### Skills:
+### 🔧 Technologies & Tools:
