@@ -4,7 +4,10 @@
 I'm from Damanjodi, Odisha and currently pursuing my B.Tech from National Institute of Technology, Agartala in the field of Computer Science & Engineering. I am presently in the 3rd year and I am actively looking forward to working with IT companies where I would be able to showcase my skills.
 
 *****
-<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+<img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
+### 👨🏻‍🎓About Myself:
+<br>
 
 - 🔭 I’m currently working on **Machine Learning & Data Science😃**.
 <!-- -->
@@ -25,5 +28,7 @@ I'm from Damanjodi, Odisha and currently pursuing my B.Tech from National Instit
 <a href="https://www.facebook.com/ganguli.swarnendu.25"><img align="center" height="30" width="40" src="https://www.flaticon.com/svg/vstatic/svg/124/124010.svg?token=exp=1611401306~hmac=717061ff08a675b7de0118a80d692962"></a> 
 <a href="https://www.instagram.com/_ganguli_swarnendu.25/"><img align="center" height="30" width="40" src="https://www.flaticon.com/svg/vstatic/svg/1384/1384063.svg?token=exp=1611401441~hmac=cec5e370c19090237abb18ccd5fffc29"></a> 
 <a href="https://www.linkedin.com/in/swarnendu-ganguli-b679841b4/"><img align="center" height="30" width="40" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1611403407~hmac=d472d8862de18d61a925b6698b70b7dd"></a>
+<br>
+<br>
 
 ### Skills:
