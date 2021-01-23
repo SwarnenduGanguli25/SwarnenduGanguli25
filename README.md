@@ -19,3 +19,9 @@ I'm from Damanjodi, Odisha and currently pursuing my B.Tech from National Instit
 - ⚡ Fun fact: **I love watching anime and reading manga😍**.
 
 *****
+#### You can also connect to me via:
+
+<a href="https://twitter.com/swarnendu_1"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>
+<a href="https://www.facebook.com/ganguli.swarnendu.25"><img height="30" src="https://www.flaticon.com/svg/vstatic/svg/124/124010.svg?token=exp=1611401306~hmac=717061ff08a675b7de0118a80d692962"></a>
+<a href="https://www.instagram.com/_ganguli_swarnendu.25/"><img height="30" src="https://www.flaticon.com/svg/vstatic/svg/1384/1384063.svg?token=exp=1611401441~hmac=cec5e370c19090237abb18ccd5fffc29"></a>
+<a href="https://www.linkedin.com/in/swarnendu-ganguli-b679841b4/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
