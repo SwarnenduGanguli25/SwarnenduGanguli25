@@ -31,3 +31,39 @@ I'm from Damanjodi, Odisha and currently pursuing my B.Tech from National Instit
 <br>
 
 ### 🔧 Technologies & Tools:
+<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
+<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
+<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
+<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
+<a><img src="https://www.r-project.org/logo/Rlogo.svg" width="40" height="40"/></a>
+<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" width="40" height="40"/></a>
+<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
+<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/></a>
+<a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" width="40" height="40"/></a>
+<a><img src="https://cdn.shortpixel.ai/spai/q_lossy+ret_img/https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png" width="40" height="40"/></a>
+<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
+<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/></a>
+<a><img src="https://uysalmustafa.com/wp-content/uploads/2016/11/git-logo-1.png" width="40" height="40"/></a>
+<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a>
+<a><img src="https://user-images.githubusercontent.com/50221806/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png" width="40" height="40"/></a>
+<a><img src="https://static.javatpoint.com/tutorial/matplotlib/images/matplotlib-tutorial.png" width="40" height="40"/></a>
+<a><img src="https://user-images.githubusercontent.com/315810/92254613-279c8000-ee9f-11ea-9b73-5622a7d95f3f.png" width="40" height="40"/></a>
+<a><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/></a>
+<a><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe6FwK1fiqCPb-q75tTFbTA6Gd84RHfPyGjg&usqp=CAU" width="40" height="40"/></a>
+<a><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvZVMVd-ImiHxN_z3oA0pHnHOrHwVs05DZeg&usqp=CAU" width="40" height="40"/></a>
+<a><img src="https://i.pinimg.com/originals/7d/b1/28/7db128b43f7501993a8ce25681d8c399.png" width="40" height="40"/></a>
+<a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/1024px-PyCharm_Logo.svg.png" width="40" height="40"/></a>
+<a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width="40" height="40"/></a>
+<a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/666px-Apache_NetBeans_Logo.svg.png" width="40" height="40"/></a>
+<a><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS8eJN-nvnmpQCgv8yH9Y3IfpDg64-msUAOg&usqp=CAU" width="40" height="40"/></a>
+
+*****
+### 📈 GitHub Statistics:
+
+<a href="https://github.com/SwarnenduGanguli25/SwarnenduGanguli25">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwarnenduGanguli25&theme=tokyonight" />
+</a>
+<a href="https://github.com/SwarnenduGanguli25/SwarnenduGanguli25">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SwarnenduGanguli25&show_icons=true&theme=radical" alt="Swarnendu's's GitHub Stats" />
+</a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SwarnenduGanguli25&theme=synthwave" alt="SwarnenduGanguli25" /></p>
