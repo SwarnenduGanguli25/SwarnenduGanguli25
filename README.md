@@ -55,6 +55,7 @@ I'm from Damanjodi, Odisha and currently pursuing my B.Tech from National Instit
 <a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/1024px-PyCharm_Logo.svg.png" width="40" height="40"/></a>
 <a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width="40" height="40"/></a>
 <a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/666px-Apache_NetBeans_Logo.svg.png" width="40" height="40"/></a>
+<a><img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" width="40" height="40"/></a>
 <a><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS8eJN-nvnmpQCgv8yH9Y3IfpDg64-msUAOg&usqp=CAU" width="40" height="40"/></a>
 
 *****
